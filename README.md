@@ -1,2 +1,2 @@
-# Multi-Disease-Predictive-Analytics-Platform
-Our innovative platform leverages predictive analytics and machine learning algorithms to detect the likelihood of various life-threatening diseases, enabling early diagnosis and treatment. Initially, our platform focuses on predicting Parkinson's, Heart Disease, and Diabetes with plans to expand to numerous other diseases, including Breast Cancer detection, Pneumonia, and many more, to provide comprehensive healthcare insights and support.
+Here's the codebase for "Multi Disease Prediction" using Streamlit. The .ipynb files, datasets, .sav files are shared in the respective folders.
+'multi dissease pred.py' is the streamlit app code. Furthermore, you may need to install additional libraries for running the notebooks. As far now it can easily predict the dissease for Diabetes, Heart Dissease, Parkinson's Dissease with plans to expand to numerous other diseases in upcoming update
