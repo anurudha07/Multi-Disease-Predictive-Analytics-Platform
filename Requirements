@@ -1,4 +1,4 @@
-Installation of depndencies including numpy, pandas, sklearn
+Installation of depndencies including numpy, pandas, sklearn, seaborn, pickle
 Installation of all datasets
 Installation of platformn like Spyder for running the multiple dissease pred.py file
 installation of streamlit_option_menu with command pip install streamlit-option-menu, for pickle - pip install pypickle and so on
